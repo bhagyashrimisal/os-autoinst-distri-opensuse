@@ -6,7 +6,7 @@ the license. Thanks!
 If you have questions, visit us on irc.freenode.net in #opensuse-factory or
 ask on our mailing list opensuse-factory@opensuse.org
 
-### How to get started
+### How to get Started
 
 It can be beneficial to learn how an openQA job is executed. To setup your own
 openQA instance, please refer to the documentation of the [openQA project](https://github.com/os-autoinst/openQA).
